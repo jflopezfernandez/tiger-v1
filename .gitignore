@@ -1,0 +1,6 @@
+
+# Binary files and debug info
+*.udb
+*.exe
+*.o
+*.dll
